@@ -1,0 +1,3 @@
+### How does the validator work
+
+To begin the bridging process on the Equito Bridge, a user creates a deposit transaction on the origin network that includes information about the target chain, wallet, and bridged tokens along with their quantity. Validators periodically check for new deposit transactions on all configured chains. If the transaction is valid, the validator creates and signs a release transaction on the target chain, it is saved in the contract and awaits other validators to sign. When the multi-signature threshold is reached, the release transaction is executed on the target chain by a randomly selected validator.
