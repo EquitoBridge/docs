@@ -3,6 +3,7 @@
 Equito provides modular software tools to enable cross-chain communication and composability for applications and digital assets.
 
 **WebSite**: https://equitofinance.com
+
 **Bridge**: https://bridge.equitofinance.com
 
 This documentation describes the design of the Equito Bridge, provides an explanation of the core concepts, the architecture and how the Equito Bridge protocol works.
