@@ -18,3 +18,5 @@ It was originally designed for use bridge functions cross blockchains and has si
 ## Availability
 
 We will announce the availability of the SDK shortly.
+
+To know more about skds send an email to info@equitofinance.com.
