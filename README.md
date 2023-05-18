@@ -37,7 +37,8 @@ This documentation describes the design of the Equito Bridge, provides an explan
 ### 5. Security
 
 - [Bridging Security](./equito-bridge/2-equito-bridge/5-security/multi-sig.md)
-
+- [Audit Algorand Contracts](./equito-bridge/2-equito-bridge/5-security/REP-final-20221216T155748Z.pdf)
+- [Audit Ethereum/Binance Contracts](./equito-bridge/2-equito-bridge/5-security/REP-final-20221216T155626Z.pdf)
 ## Equito Bridge SDK
 
 - [Introduction to Equito Bridge SDK ](./equito-bridge/3-bridge-sdk/1-introduction.md)
